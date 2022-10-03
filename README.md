@@ -5,7 +5,7 @@ This is a simple Java-based command line eBook reader with a new excepts of publ
 [Video](https://youtu.be/0eRMuplO510) 
 
 ## How to use:
-Download the Java source code from the repository, compile and execute each class, and a command line interface will appear in the terminal.
+Download the Java source code ([Book.java](https://github.com/Austin-Daigle/Java-command-line-eReader-simulator/blob/main/Book.java), [User.java](https://github.com/Austin-Daigle/Java-command-line-eReader-simulator/blob/main/User.java), and [UserInterface.java](https://github.com/Austin-Daigle/Java-command-line-eReader-simulator/blob/main/UserInterface.java)) from the repository, compile and execute each class, and a command line interface will appear in the terminal.
 Follow the prompt instructions to interact with the program. Upon execution, a login prompt will apears, choose a username from the list and enter it to login.  
 
 ### Commands Reference
