@@ -1,5 +1,5 @@
 # Command Line Java eBook Reader
-This is a simple Java-based command line eBook reader with a new excepts of public domain books comprising its contents. This program is meant to simulate a eReader and store with multiple user and management system for the interface and users. 
+This is a simple Java-based command line eBook reader with a new excepts of public domain books comprising its contents. This program is meant to simulate a eReader and store with multiple user and management system for the interface and users, then choose the desired command(s) from the program.  
 
 ## Demonstration Video:
 [Video](https://youtu.be/0eRMuplO510) 
